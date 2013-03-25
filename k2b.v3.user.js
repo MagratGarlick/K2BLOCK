@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        K2C
 // @namespace   10102911023
-// @include     http://*komica.org/*/*.htm
+// @include     http://*komica.org/53/*.htm
 // @version     2
 // ==/UserScript==
 
